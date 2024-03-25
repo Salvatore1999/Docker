@@ -1,6 +1,5 @@
 # Docker
-In this repository I will add all the docker images I will create. 
-
+In this repository I will add all the docker images that I create. In particular, the wiki section will have all the links to the docker images with an explanation of them. 
 Follow bamundo (me!) on dockerHub to stay up to date.
 
 In general, to obtain an image you need to go to my dockerHub page:
